@@ -1,26 +1,68 @@
 # Heretics SF 2030 Goals
 
+An overarching direction of this project is, perhaps, to follow the guidance in Jorge Luis Borges' very short story "On Exactitude in Science" which describes an imaginary empire where the map is larger than the territory. See:
 
-## 1. Location, Place, Premise
+* https://en.wikipedia.org/wiki/On_Exactitude_in_Science
+* http://languagescraps.blogspot.com/2008/09/borges-short-story-relating-to-foucault.html
 
-the physical, the what's there, the Internet, the extended reality, connections between each of these
+This project if ever finished would be too large and too out of date to be useful. At the same time it may well provide a framework for tackling selected and specific aspects living, working and managing a facility such as ours. So, dear reader, get ready to bite your tongue, gird your loins and roll your eyes.
 
-### 1.1 We connect with the world
+***
 
-16.6 Develop effective, accountable and transparent institutions at all levels
-16.7 Ensure responsive, inclusive, participatory and representative decision-making at all levels
-16.8 Broaden and strengthen the participation of developing countries in the institutions of global governance
-16.10 Ensure public access to information and protect fundamental freedoms, in accordance with national legislation and international agreements
-16.b Promote and enforce non-discriminatory laws and policies for sustainable development
+Here are 21 goals for the Heritage on the Marina to achieve by 2030.
+
+These goals, targets and metrics follow the logic and pattern established in the [The 17 Goals]( https://sdgs.un.org/goals ) developed by the United Nations Department of Economic and Social Affairs. The 2030 Agenda for Sustainable Development, adopted by all United Nations Member States in 2015, provides a shared blueprint for peace and prosperity for people and the planet, now and into the future. Fingers crossed we can do the same.
+
+The goals are divided into a [trichotomy]( https://en.wikipedia.org/wiki/Trichotomy_(philosophy) ) of seven goals each. The trichotomy headings are location, person & organization or knowing, being & doing.
+
+The targets and metrics of the goals are defined as one would define a [Bill of Materials]( https://en.wikipedia.org/wiki/Bill_of_materials ) or [Bill of Quantities]( https://en.wikipedia.org/wiki/Bill_of_quantities ) - exhaustive documents that where every material, part and labor-component is itemized.
+
+Each trichotomy is further divided into seven goals. Each trichotomy includes goals that refer to the "beauty" and the "security or sustainability" of the goals in that section. They exist in order to indicate that best and the worst aspects of the other goals may require extra effort or thought that surpasses merely meeting or satisfying the conditions of the other goals.
+
+
+## 1. Location
+
+Place, locale, premises; The physical, the what's there; the Internet, the extended reality; the metaphysical; connections and communications between each of these
+
+
+### Goal 1.1: We connect with the world
+
+The Earth, our country, our state; the internet, extended reality; the celestial; the universe
+
+Government agencies, major organizations, standards setting oboes
+
+Think of all the organizations we relate to CMS, CDC, NIH, IRS, CA DPH, FTB
+
+Also Leading Age, Twitter, Facebook, LinkedIn, Yelp
+
+Also TouchTown
+
+* Shining light retirement community
+* 5 stars / Win "beauty" contests
+* Set examples and templates, schemas & protocols that others may others
+* Shares stats, guidance and processes
+
+
+#### UN Sustainable Development Goals of interest
+
+16 Peace, justice and strong institutions
+
+* 16.6 Develop effective, accountable and transparent institutions at all levels
+* 16.7 Ensure responsive, inclusive, participatory and representative decision-making at all levels
+* 16.8 Broaden and strengthen the participation of developing countries in the institutions of global governance
+* 16.10 Ensure public access to information and protect fundamental freedoms, in accordance with national legislation and international agreements
+* 16.b Promote and enforce non-discriminatory laws and policies for sustainable development
 
 17 Partnerships for the goals
 
-17.7 Promote the development, transfer, dissemination and diffusion of environmentally sound technologies to developing countries on favourable terms, including on concessional and preferential terms, as mutually agreed
+* 17.7 Promote the development, transfer, dissemination and diffusion of environmentally sound technologies to developing countries on favourable terms, including on concessional and preferential terms, as mutually agreed
 
-17.8 Fully operationalize the technology bank and science, technology and innovation capacity-building mechanism for least developed countries by 2017 and enhance the use of enabling technology, in particular information and communications technology
+* 17.8 Fully operationalize the technology bank and science, technology and innovation capacity-building mechanism for least developed countries by 2017 and enhance the use of enabling technology, in particular information and communications technology
 
 
-### 1.2 We connect with our locale
+### 1.2 Goal: We connect with our locale
+
+County and city; neighborhood and streets
 
 We are good neighbors, customers and partners in our city and neighborhood
 
@@ -30,33 +72,15 @@ We support neighborhood merchants, shops and organizations
 * Exchanges with other continuing care facilities
 * Discounts, lists of wonderful providers
 
-
-
-### 1.3 We connect with the environment
-
-Birds and the bees, the flowers and the trees
-
-Nature and parks, transport, infrastructure
-
-* Member Fort Mason org
-* Bird watching, walking
-* Transport
-
-Trees and Plants have placards with their names
-Islands around Oak in parking lot is planted
-All three pedestrian entrances are accessible and attractive
-"Back of house" is not ugly
-North side View from Bay Street and Laguna is attractive
-Pickup and deliveries are requested to be quiet
-Trucks have white noise back up warning sounds
-Bay Street entrance is attractive and accessible
-Building is lit at night
-
-### 1.4 Goal: We connect with our premises
+### 1.3 Goal: We connect with our premises
 
 * The public spaces where we live and work
 
 Facilities, the public spaces?
+
+* lights to front of house
+* White noise beeps only / Please be quiet sign
+* Flowers in parking
 
 Web cams
 Gardens
@@ -76,10 +100,14 @@ Art, music, exercise, hobbies
 Hairdressing, barber, podiatrist
 Visiting x-ray
 Privacy, meetings, transport
+Staff areas
+Kitchens, offices, loccker rooms
+Service areas
 
-### 1.5 Goal: We take care of our private spaces
+### 1.4 Goal: We take connect with our private spaces
 
-### Targets
+#### Targets
+
 Bathrooms
 
 * Bars and poles on all four sides of the showers
@@ -118,9 +146,31 @@ All communication digital No Coax no RJ15
 All windows may be filtered
 Opened and closed remotely?
 
+Offices
 
 
-### 1.6 We nurture the beauty of all of the above
+### 1.5 We connect with the environment
+
+Birds and the bees, the flowers and the trees
+
+Nature and parks, transport, infrastructure
+
+* Member Fort Mason org
+* Bird watching, walking
+* Transport
+
+Trees and Plants have placards with their names
+Islands around Oak in parking lot is planted
+All three pedestrian entrances are accessible and attractive
+"Back of house" is not ugly
+North side View from Bay Street and Laguna is attractive
+Pickup and deliveries are requested to be quiet
+Trucks have white noise back up warning sounds
+Bay Street entrance is attractive and accessible
+Building is lit at night
+
+
+### 1.6 Beauty: We nurture the beauty of all of the above
 
 noticeably effective
 
@@ -164,6 +214,9 @@ We seek good people
 
 Som of us are different some of us become different after a while here
 
+* Embrace diversity
+* Accepts affluent and needy
+* Shares and exchanges with communities of color, LGBT
 * Some apartments allocated to former staff members
 * We have exchanges with other facilities
 
