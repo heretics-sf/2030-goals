@@ -17,12 +17,21 @@ The goals are divided into a [trichotomy]( https://en.wikipedia.org/wiki/Trichot
 
 The targets and metrics of the goals are defined as one would define a [Bill of Materials]( https://en.wikipedia.org/wiki/Bill_of_materials ) or [Bill of Quantities]( https://en.wikipedia.org/wiki/Bill_of_quantities ) - exhaustive documents that where every material, part and labor-component is itemized.
 
-Each trichotomy is further divided into seven goals. Each trichotomy includes goals that refer to the "beauty" and the "security or sustainability" of the goals in that section. They exist in order to indicate that best and the worst aspects of the other goals may require extra effort or thought that surpasses merely meeting or satisfying the conditions of the other goals.
+Each trichotomy is further divided into seven goals. Each trichotomy includes goals that refer to the "beauty" and the "security or sustainability" of the goals in that section. They exist in order to indicate that best and the worst aspects of the other goals may require extra effort or thought in order to surpass merely meeting or satisfying the conditions of the other goals.
 
+{Further revisions may double-click into all the aspects briefly covered above.}
 
 ## 1. Location
 
-Place, locale, premises; The physical, the what's there; the Internet, the extended reality; the metaphysical; connections and communications between each of these
+### 1.0: Introduction
+
+This section covers:
+
+* Things that have a position such as latitude & longitude or URL
+* Place, locale, premises & personal spaces
+* The physical, the what's there;
+* The Internet, the extended reality; the metaphysical;
+* Connections and communications between each of these
 
 
 ### Goal 1.1: We connect with the world
@@ -60,7 +69,7 @@ Also TouchTown
 * 17.8 Fully operationalize the technology bank and science, technology and innovation capacity-building mechanism for least developed countries by 2017 and enhance the use of enabling technology, in particular information and communications technology
 
 
-### 1.2 Goal: We connect with our locale
+### Goal 1.2: We connect with our locale
 
 County and city; neighborhood and streets
 
@@ -72,39 +81,40 @@ We support neighborhood merchants, shops and organizations
 * Exchanges with other continuing care facilities
 * Discounts, lists of wonderful providers
 
-### 1.3 Goal: We connect with our premises
+### Goal 1.3: We connect with our premises
 
-* The public spaces where we live and work
+The public spaces where we live and work
 
 Facilities, the public spaces?
 
+* Web cams
+* Accessibility for handicapped
+* Gathering places
+* Library, Chapel, Dining
+* Art, music, exercise, hobbies
+* Hairdressing, barber, podiatrist
+* Visiting x-ray
+* indoor pandemic access visiting areas
+* Privacy, meetings, transport
+* Staff areas
+* Kitchens, offices, locker rooms
+* Service areas
+
+Gardens
+
+* Beautiful entrances on all three sides
+* All three entrances: accessible and handsome
 * lights to front of house
 * White noise beeps only / Please be quiet sign
 * Flowers in parking
+* Pretty back-of-house
+* Sculpture garden
+* Visits
+* Residents allotment - in Fort Mason?
 
-Web cams
-Gardens
-Pretty back-of-house
-All three entrances: accessible and handsome
-indoor pandemic access visiting areas
-Sculpture garden
-Visits
-Residents allotment - in Fort Mason community garden?
+### Goal 1.4: We take connect with our personal spaces
 
-
-Beautiful entrances on all three sides
-Accessibility for handicapped
-Gathering places
-Library, Chapel, Dining
-Art, music, exercise, hobbies
-Hairdressing, barber, podiatrist
-Visiting x-ray
-Privacy, meetings, transport
-Staff areas
-Kitchens, offices, loccker rooms
-Service areas
-
-### 1.4 Goal: We take connect with our private spaces
+Apartments and offices
 
 #### Targets
 
@@ -129,10 +139,10 @@ Closets
 All closets have clothes hooks, safe deposit box
 
 Heating and Ventilating
-Warmth even with fresh air
-Very adjustable windows
-Air filters?
-Quiet
+* Warmth even with fresh air
+* Very adjustable windows
+* Air filters?
+* Quiet
 
 Bathrooms: non-slip + extra non-slip
 Showers have rails on three sides / floors are absolutely non-slip
@@ -147,9 +157,30 @@ All windows may be filtered
 Opened and closed remotely?
 
 Offices
+Apartments
+Voice activated help + push button available everywhere
+Floors are cleanable by washing by normal housekeeping staff
+remote controls for all lights and shades and heating
+All communication digital No Coax no RJ11
+
+All windows may be filtered
+Opened and closed remotely?
+
+Bathroom
+Showers have rails on three sides / floors are absolutely non-slip
+Fans?
+close up mirrors
+
+Closets
+
+Library of Container store parts available
+Staff and residents Container store discount
+
+Closets lights work on motion sensors
+All closets have clothes hooks, safe deposit box
 
 
-### 1.5 We connect with the environment
+### Goal 1.5: We connect with the environment
 
 Birds and the bees, the flowers and the trees
 
@@ -170,7 +201,7 @@ Bay Street entrance is attractive and accessible
 Building is lit at night
 
 
-### 1.6 Beauty: We nurture the beauty of all of the above
+### Goal 1.6: Beauty: We nurture the well-being of all of the above
 
 noticeably effective
 
@@ -182,7 +213,7 @@ attracts admiration
 * Singing and choir
 * Chapel pews replaced with theater seats / move around
 
-### 1.7 Security & Sustainability: We prevent harm from happening to any of the above
+### Goal 1.7: Security & Sustainability: We prevent harm from happening to any of the above
 
 * Testing procedures and drills
 * fire drills
@@ -198,11 +229,18 @@ attracts admiration
 
 
 
-## 2. Community, People
+## 2. People & Community
 
-“People” is assumed to include residents, staff, admin, regulators and other parties with an ongoing binding relationship (Morrison for example)
+### 2.0: Introduction
 
-### 2.1 We know each each other
+This section covers:
+
+* You
+* People as individuals interacting with other individuals
+* “People” is assumed to include residents, staff, admin, regulators and other parties with an ongoing binding relationship (Morrison for example)
+* People you care about, friends ^ family, people you are concerned about
+
+### Goal 2.1: We know each each other
 
 We seek good people
 * Residents and staff have a say in the criteria
@@ -210,7 +248,7 @@ We seek good people
 * Intimacy and sharing are encouraged
 * Newbs have special treatment
 
-### 2.2 We respect and encourage diversity
+### Goal 2.2: We respect and encourage diversity
 
 Som of us are different some of us become different after a while here
 
@@ -220,71 +258,99 @@ Som of us are different some of us become different after a while here
 * Some apartments allocated to former staff members
 * We have exchanges with other facilities
 
-### 2.3. We manage our efforts
+### Goal 2.3: We manage our efforts
 
 We are not just a clump of people; we are residents & staff, guides and guided
 
 * BoD includes residents, staff and regulators
 
 
-### 2.4 We gather, party communicate
+### Goal 2.4: We gather, celebrate and communicate
 
 
 
 
-### 2.5 We care for each other
+### Goal 2.5: We care for each other
 
 
-### 2.6 We help people blossom and derive meaning
+### Goal 2.6: Beauty: We blossom and derive meaning
 
-Adapt the gardens so they become a sculpture garden that people visit
-Recycle the art in the halls and in storage
+* Adapt the gardens so they become a sculpture garden that people visit
+* Recycle the art in the halls and in storage
+* Paintings and furniture moved around every year - every hall is a curated gallery
+* Beauty committee ;-)
 
-### 2.7 We protect our people
+### Goal 2.7: Safety: We protect our people from worry
 
-People feel supported, not lonely
-Able to express opinion and be heard
-Bonding
 
+* Food, heat, Light are all OK
 
 ## 3. Organization, Support and Services
 
-### 3.1 Activity: We do things together
+### 3.0 Introduction
+
+This section covers:
+
+Organizations
+* Groups of people doing things together
+* Collaborations
+* The effort, the work, the support & service people provide
+
+
+### Goal 3.1: Activity: We do things together
 
 Activities & preventative services - assisted living, PT
 
+* Residents take turns talking with quiet residents
 * Hearing aid support
+* Feeling: anybody allowed in is OK
+* People feel supported, not lonely
 
-### 3.2 Food: We eat well and healthy
+### Goal 3.2: Food: We eat well and healthy
 
-### 3.3. Housekeeping: We keep our places clean and tidy
+* Organic available
+* A vegetarian could live here
+* More fiber
+
+
+### Goal 3.3: Housekeeping & Maintenance: We keep our places clean and tidy
 
 * Carpets cleaned every year
 * Hoarding therapist every year
+* Internet ~ 4 nines uptime ~ 24/7 response
+* Regular reports on issues
 
-
-### 3.4. Human Resources: We look after our people
+### Goal 3.4: Human Resources: We look after our people
 
 * have good IT
+* Health plans, 401K
+* Able to express opinion and be heard
+* Bonding
 
 
-### 3.5 Health and Therapy: We keep healthy
+### Goal 3.5: Health and Therapy: We keep healthy
 
 * Online connection between residents and health staff
 * Hearing review every year
 * Coaching for fitness, diet, and mind
-* Good contact: hotM and GP
+* Good contact: hotM and GP/PCP
+* Dr in the house
+* no paperwork
+* flexible levels of care
+* 100% vaccination
 
 
-### 3.6. We do the right things in a right way
+### Goal 3.6: Beauty: We do right things in a right way
 
-* Paintings and furniture moved around every year - every hall is a curated gallery
-* Beauty committee
+* Things are run so well that that they are an example for others to follow
+* Processes are available as templates for others to use
+* Unwritten Constitution
 
 
-### 3.7. We help stop things from breaking and failing
 
-* Feeling: anybody allowed in is OK
-* Food, heat, Light are all OK
+### Goal 3.7: Security: We help stop things from breaking and failing
+
+* Checklists, manuals and lists of procedures are available, up to date and followed happily
+
 
 
