@@ -44,11 +44,13 @@ Think of all the organizations we relate to CMS, CDC, NIH, IRS, CA DPH, FTB
 
 Also Leading Age, Twitter, Facebook, LinkedIn, Yelp
 
-Also TouchTown
+Also TouchTown, fax machines, loudspeaker systems and pile of paper
 
-* Shining light retirement community
+We want to:
+
+* Be a "shining light" retirement community
 * 5 stars / Win "beauty" contests
-* Set examples and templates, schemas & protocols that others may others
+* Set examples and templates, schemas & protocols that others may build upon
 * Shares stats, guidance and processes
 
 
@@ -80,6 +82,8 @@ We support neighborhood merchants, shops and organizations
 * Member business district association
 * Exchanges with other continuing care facilities
 * Discounts, lists of wonderful providers
+
+Add hospitals - Sutter, Kaiser, UCSF - and all the local health providers
 
 ### Goal 1.3: We connect with our premises
 
