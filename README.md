@@ -356,5 +356,3 @@ Activities & preventative services - assisted living, PT
 
 * Checklists, manuals and lists of procedures are available, up to date and followed happily
 
-
-
