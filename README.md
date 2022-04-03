@@ -21,6 +21,7 @@ Each trichotomy is further divided into seven goals. Each trichotomy includes go
 
 {Further revisions may double-click into all the aspects briefly covered above.}
 
+
 ## 1. Location
 
 ### 1.0: Introduction
@@ -84,6 +85,7 @@ We support neighborhood merchants, shops and organizations
 * Discounts, lists of wonderful providers
 
 Add hospitals - Sutter, Kaiser, UCSF - and all the local health providers
+
 
 ### Goal 1.3: We connect with our premises
 
@@ -250,7 +252,7 @@ We seek good people
 * Residents and staff have a say in the criteria
 * Residents and staff have a say in selecting new residents
 * Intimacy and sharing are encouraged
-* Newbs have special treatment
+* New residents have special treatment
 
 ### Goal 2.2: We respect and encourage diversity
 
@@ -286,8 +288,8 @@ We are not just a clump of people; we are residents & staff, guides and guided
 
 ### Goal 2.7: Safety: We protect our people from worry
 
-
 * Food, heat, Light are all OK
+
 
 ## 3. Organization, Support and Services
 
@@ -339,7 +341,7 @@ Activities & preventative services - assisted living, PT
 * Coaching for fitness, diet, and mind
 * Good contact: hotM and GP/PCP
 * Dr in the house
-* no paperwork
+* No paperwork
 * flexible levels of care
 * 100% vaccination
 
